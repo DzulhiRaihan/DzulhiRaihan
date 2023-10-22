@@ -1,4 +1,4 @@
-## Hey 👋,This is Ali An Nuur
+## Hey 👋,This is Dzulhi Raihan
 [![Gmail Badge](https://img.shields.io/badge/-dzulhiraihan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dzulhiraihan@gmail.com)](mailto:dzulhiraihan@gmail.com) [![Github Badge](https://img.shields.io/badge/-DzulhiRaihan-grey?style=flat&logo=github&logoColor=white&link=https://github.com/DzulhiRaihan/)](https://www.github.com/DzulhiRaihan/) <p align='left'>I am a new student in the department of informatics engineering. I love programming, I also love designing.</p>
 Here are some ideas to get you started:
 
