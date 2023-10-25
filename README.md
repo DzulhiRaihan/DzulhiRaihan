@@ -5,7 +5,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my Portfolio Project
 - 📫 you can reach me at my social media  [IG : @bukanrehan__](https://www.instagram.com/bukanrehan__)
 - 😄 I'm natively speak Indonesian
-- ⚡ Fun fact: 
 
 ## Some of my Github Stats
 
